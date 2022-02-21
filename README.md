@@ -1,2 +1,2 @@
-# Google-Keep-Clone
-Google Keep Clone developed using React.js
+# Todo-List-App
+Todo List App developed using React.js
